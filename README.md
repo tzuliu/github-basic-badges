@@ -16,7 +16,7 @@ All the URL Patterns showed in the table bellow must be used as `<app-url>\<url-
 
 | URL Pattern | Description | Preview |
 | ----------- | ----------- | ------- |
-| `downloads/<user>/<repo>/total.svg` | Sum of downloads of all artifacts in the latest release. | [![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/tzuliu/github-basic-badges/total.svg)]() |
+| `downloads/<user>/<repo>/total.svg` | Sum of downloads of all artifacts in the latest release. | [![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/total.svg)]() |
 | `downloads/<user>/<repo>/<tag>/total.svg` | Sum of downloads of all artifacts in the release with the `<tag>` | [![GitHub Download Count By Tag](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/v1.0.0/total.svg)]() |
 | `downloads/<user>/<repo>/<file>.svg` | Total downloads of the artifact named `<file>` in the latest release. | [![GitHub Download Count By Artifact](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/dummy.txt.svg)]() |
 | `downloads/<user>/<repo>/<tag>/<file>.svg` | Total downloads of an artifact named `<file>` in the release with a tag name `<tag>`. | [![GitHub Download Count By Artifact and Release](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/v1.0.0/dummy.txt.svg)]() |
